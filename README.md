@@ -7,7 +7,7 @@
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-intel)
 ![GitHub all releases](https://img.shields.io/github/downloads/qompassai/intel/total?style=flat-square)
-
+<p align="center">
 <a href="https://www.intel.com/">
   <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel">
 </a>
